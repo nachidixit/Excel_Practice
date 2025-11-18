@@ -61,6 +61,6 @@ This repository showcases practical application of the following advanced Excel 
 
 If you have any questions, feedback, or suggestions regarding the projects or practice files, please feel free to connect!
 
-* **Name:** [Your Name]
-* **Email:** [Your Email Address]
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Name:** Nachiket Dixit
+* **Email:** nachiket.dixit@upgrad.com
+* **LinkedIn:** linkedin.com/nachiket-dixit
